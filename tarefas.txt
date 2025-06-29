@@ -1,0 +1,3 @@
+Ana|Comprar pão|Alta
+Gabriel|Estudar Python|Média
+Ana|Ir à academia|Baixa
